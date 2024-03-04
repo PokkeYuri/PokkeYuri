@@ -4,7 +4,7 @@
 -->
 A Software Developer specializing in Backend Developing. I'm passionate about .NET, and I love to explore new technologies and leverage them to solve real-life problems
 
-## 🔧 Technologies & Tools
+## 🔧 Techstack
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
