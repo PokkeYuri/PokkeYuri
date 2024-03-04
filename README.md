@@ -4,7 +4,7 @@
 ## 🌱 About Me
 -->
 
-I'm a Software Developer specializing in Backend Developing. I'm passionate about .NET, and I love to explore new technologies and leverage them to solve real-life problems
+I'm a Software Developer specializing in Backend Developing. I'm passionate about .NET, and I love to explore new technologies and leverage them to solve real-life problems.
 
 ## 🔧 Techstack
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
