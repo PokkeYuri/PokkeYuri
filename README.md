@@ -1,8 +1,10 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+PokkeYuri!+👋)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&color=F7F7F7&multiline=true&repeat=false&random=false&width=435&lines=Hello+there%2C+I'm+PokkeYuri!%F0%9F%91%8B)](https://git.io/typing-svg)
 <!---
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+PokkeYuri!+👋&repeat=false)
 ## 🌱 About Me
 -->
-A Software Developer specializing in Backend Developing. I'm passionate about .NET, and I love to explore new technologies and leverage them to solve real-life problems
+
+I'm a Software Developer specializing in Backend Developing. I'm passionate about .NET, and I love to explore new technologies and leverage them to solve real-life problems
 
 ## 🔧 Techstack
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
