@@ -1,4 +1,4 @@
-# Hello there, I'm PokkeYuri! 👋
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there,+I'm+PokkeYuri!+👋)
 <!---
 ## 🌱 About Me
 -->
