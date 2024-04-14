@@ -11,7 +11,6 @@ I'm a Software Developer specializing in Backend Developing. I'm passionate abou
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/X++-5C2D91?style=flat&logo=dynamics-365&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
